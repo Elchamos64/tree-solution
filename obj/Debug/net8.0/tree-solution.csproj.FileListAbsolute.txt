@@ -1,0 +1,14 @@
+C:\Users\Oscar Ramos\Documents\tree-solution\bin\Debug\net8.0\tree-solution.exe
+C:\Users\Oscar Ramos\Documents\tree-solution\bin\Debug\net8.0\tree-solution.deps.json
+C:\Users\Oscar Ramos\Documents\tree-solution\bin\Debug\net8.0\tree-solution.runtimeconfig.json
+C:\Users\Oscar Ramos\Documents\tree-solution\bin\Debug\net8.0\tree-solution.dll
+C:\Users\Oscar Ramos\Documents\tree-solution\bin\Debug\net8.0\tree-solution.pdb
+C:\Users\Oscar Ramos\Documents\tree-solution\obj\Debug\net8.0\tree-solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Ramos\Documents\tree-solution\obj\Debug\net8.0\tree-solution.AssemblyInfoInputs.cache
+C:\Users\Oscar Ramos\Documents\tree-solution\obj\Debug\net8.0\tree-solution.AssemblyInfo.cs
+C:\Users\Oscar Ramos\Documents\tree-solution\obj\Debug\net8.0\tree-solution.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Ramos\Documents\tree-solution\obj\Debug\net8.0\tree-solution.dll
+C:\Users\Oscar Ramos\Documents\tree-solution\obj\Debug\net8.0\refint\tree-solution.dll
+C:\Users\Oscar Ramos\Documents\tree-solution\obj\Debug\net8.0\tree-solution.pdb
+C:\Users\Oscar Ramos\Documents\tree-solution\obj\Debug\net8.0\tree-solution.genruntimeconfig.cache
+C:\Users\Oscar Ramos\Documents\tree-solution\obj\Debug\net8.0\ref\tree-solution.dll
